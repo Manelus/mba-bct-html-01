@@ -1,2 +1,4 @@
 # mba-bct-html-01
-mi primer proyecto
+mi primer repositorio Git
+
+HolaMundo!!!
